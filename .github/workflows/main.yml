@@ -1,5 +1,5 @@
 name: Main.yml
-run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+run-name: ${{ github.actor }} is testing out main.yml 🚀
 on: [push]
 jobs:
   Explore-GitHub-Actions:
